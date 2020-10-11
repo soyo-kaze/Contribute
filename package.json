@@ -24,15 +24,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soyo-kaze/contribute.git"
+    "url": "git+https://github.com/soyo-kaze/Contribute.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/soyo-kaze/contribute/issues"
+    "url": "https://github.com/soyo-kaze/Contribute/issues"
   },
-  "homepage": "https://github.com/soyo-kaze/contribute#readme",
+  "homepage": "https://soyo-kaze.github.io/Contribute",
   "browserslist": {
     "production": [
       ">0.2%",
