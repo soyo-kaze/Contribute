@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/dscbkbiet/contributestatic/js/main.660f288d.chunk.js",
+    "main.js.map": "/dscbkbiet/contributestatic/js/main.660f288d.chunk.js.map",
+    "runtime-main.js": "/dscbkbiet/contributestatic/js/runtime-main.54c65de4.js",
+    "runtime-main.js.map": "/dscbkbiet/contributestatic/js/runtime-main.54c65de4.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/dscbkbiet/contributestatic/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f7fedd6f.chunk.js": "/dscbkbiet/contributestatic/js/2.f7fedd6f.chunk.js",
+    "static/js/2.f7fedd6f.chunk.js.map": "/dscbkbiet/contributestatic/js/2.f7fedd6f.chunk.js.map",
+    "index.html": "/dscbkbiet/contributeindex.html",
+    "precache-manifest.e3a41716ddbdb8f654856dc48b380f03.js": "/dscbkbiet/contributeprecache-manifest.e3a41716ddbdb8f654856dc48b380f03.js",
+    "service-worker.js": "/dscbkbiet/contributeservice-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/dscbkbiet/contributestatic/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.f7fedd6f.chunk.js.LICENSE.txt": "/dscbkbiet/contributestatic/js/2.f7fedd6f.chunk.js.LICENSE.txt",
+    "static/media/hero-mobile-tshirt-dark.png": "/dscbkbiet/contributestatic/media/hero-mobile-tshirt-dark.2ca9f514.png",
+    "static/media/ss.jpg": "/dscbkbiet/contributestatic/media/ss.0a2eccc5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54c65de4.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f7fedd6f.chunk.js",
+    "static/js/main.660f288d.chunk.js"
+  ]
+}
