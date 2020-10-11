@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/soyo-kaze/contributestatic/js/main.660f288d.chunk.js",
-    "main.js.map": "/soyo-kaze/contributestatic/js/main.660f288d.chunk.js.map",
-    "runtime-main.js": "/soyo-kaze/contributestatic/js/runtime-main.d4f685ac.js",
-    "runtime-main.js.map": "/soyo-kaze/contributestatic/js/runtime-main.d4f685ac.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/soyo-kaze/contributestatic/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.f7fedd6f.chunk.js": "/soyo-kaze/contributestatic/js/2.f7fedd6f.chunk.js",
-    "static/js/2.f7fedd6f.chunk.js.map": "/soyo-kaze/contributestatic/js/2.f7fedd6f.chunk.js.map",
-    "index.html": "/soyo-kaze/contributeindex.html",
-    "precache-manifest.7b8b22ae371c2e5157b780ac61214846.js": "/soyo-kaze/contributeprecache-manifest.7b8b22ae371c2e5157b780ac61214846.js",
-    "service-worker.js": "/soyo-kaze/contributeservice-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/soyo-kaze/contributestatic/css/2.d9ad5f5c.chunk.css.map",
-    "static/js/2.f7fedd6f.chunk.js.LICENSE.txt": "/soyo-kaze/contributestatic/js/2.f7fedd6f.chunk.js.LICENSE.txt",
-    "static/media/hero-mobile-tshirt-dark.png": "/soyo-kaze/contributestatic/media/hero-mobile-tshirt-dark.2ca9f514.png",
-    "static/media/ss.jpg": "/soyo-kaze/contributestatic/media/ss.0a2eccc5.jpg"
+    "main.js": "/static/js/main.660f288d.chunk.js",
+    "main.js.map": "/static/js/main.660f288d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.28144330.js",
+    "runtime-main.js.map": "/static/js/runtime-main.28144330.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f7fedd6f.chunk.js": "/static/js/2.f7fedd6f.chunk.js",
+    "static/js/2.f7fedd6f.chunk.js.map": "/static/js/2.f7fedd6f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.21df816b39a155a263ddd8b75bd505fc.js": "/precache-manifest.21df816b39a155a263ddd8b75bd505fc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.f7fedd6f.chunk.js.LICENSE.txt": "/static/js/2.f7fedd6f.chunk.js.LICENSE.txt",
+    "static/media/hero-mobile-tshirt-dark.png": "/static/media/hero-mobile-tshirt-dark.2ca9f514.png",
+    "static/media/ss.jpg": "/static/media/ss.0a2eccc5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4f685ac.js",
+    "static/js/runtime-main.28144330.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.f7fedd6f.chunk.js",
     "static/js/main.660f288d.chunk.js"
