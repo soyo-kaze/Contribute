@@ -13,6 +13,7 @@
 */
 
 import dp from "./media/ss.jpg";
+import pic from "./media/img.jpg";
 
 const array = [
   {
@@ -44,6 +45,11 @@ const array = [
         img: dp,
         name:"sam1",
         description:"something2"
+    },
+    {
+        img: pic,
+        name:"ShreyaMukherjee",
+        description:"attendee"
     }, 
 
 ];
