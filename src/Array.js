@@ -35,6 +35,11 @@ const array = [
         name:"sam",
         description:"something2"
     }, 
+     {
+        img: dp,
+        name:"sam3",
+        description:"something2"
+    },
 ];
 
 export default array;
