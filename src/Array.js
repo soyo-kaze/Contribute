@@ -13,7 +13,7 @@
 */
 
 import dp from "./media/ss.jpg";
-
+import aa from "./media/Free-Aternatives-to-Photoshop.png"
 const array = [
   {
     img: dp,
@@ -45,7 +45,11 @@ const array = [
         name:"sam1",
         description:"something2"
     }, 
-
+     {
+        img: aa,
+        name:"Web",
+        description:"something_code"
+    }, 
 ];
 
 export default array;
