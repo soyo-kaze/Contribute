@@ -44,7 +44,12 @@ const array = [
         img: dp,
         name:"sam1",
         description:"something2"
-    }, 
+    },
+	{
+		img: dp,
+		name:"genx",
+		description:"something3"
+	},
 
 ];
 
