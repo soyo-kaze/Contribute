@@ -12,7 +12,8 @@
     }, 
 */
 
-import dp from "./media/ss.jpg";
+import dp from "./media/ss.jpg";666
+import rr from "./media/590.jpg"
 
 const array = [
   {
@@ -44,6 +45,11 @@ const array = [
         img: dp,
         name:"sam1",
         description:"something2"
+    },
+    {
+        img: rr,
+        name:"AI",
+        description:"something-4"
     }, 
 
 ];
