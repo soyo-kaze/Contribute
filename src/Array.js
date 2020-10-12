@@ -50,6 +50,14 @@ const array = [
         name:"sam1",
         description:"something2"
     },
+
+	{
+		img: dp,
+		name:"genx",
+		description:"something3"
+	},
+
+
     {
         img: pic,
         name:"ShreyaMukherjee",
@@ -60,6 +68,7 @@ const array = [
         name:"Web",
         description:"something_code"
     }, 
+
 ];
 
 export default array;
