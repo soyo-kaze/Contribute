@@ -76,6 +76,11 @@ const array = [
         description:"something_code"
 
     }, 
+     {
+        img: dp,
+        name:"Aniket",
+        description:"Hacktoberfest"
+    }, 
 
 ];
 
