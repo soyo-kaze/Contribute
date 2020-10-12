@@ -12,7 +12,8 @@
     }, 
 */
 
-import dp from "./media/ss.jpg";
+import dp from "./media/ss.jpg";666
+import rr from "./media/590.jpg"
 
 import aa from "./media/Free-Aternatives-to-Photoshop.png"
 
@@ -51,6 +52,12 @@ const array = [
         description:"something2"
     },
 
+    {
+        img: rr,
+        name:"AI",
+        description:"something-4"
+    },
+
 	{
 		img: dp,
 		name:"genx",
@@ -67,6 +74,7 @@ const array = [
         img: aa,
         name:"Web",
         description:"something_code"
+
     }, 
 
 ];
