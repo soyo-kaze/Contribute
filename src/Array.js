@@ -13,7 +13,12 @@
 */
 
 import dp from "./media/ss.jpg";
+
 import aa from "./media/Free-Aternatives-to-Photoshop.png"
+
+import pic from "./media/img.jpg";
+
+
 const array = [
   {
     img: dp,
@@ -44,6 +49,11 @@ const array = [
         img: dp,
         name:"sam1",
         description:"something2"
+    },
+    {
+        img: pic,
+        name:"ShreyaMukherjee",
+        description:"attendee"
     }, 
      {
         img: aa,
