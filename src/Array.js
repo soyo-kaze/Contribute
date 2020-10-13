@@ -11,8 +11,10 @@
         description:"something2"
     }, 
 */
+import dp from "./media/ss.jpg";
+import var1 from "./media/pic.png"
 
-import dp from "./media/ss.jpg";666
+import dp from "./media/ss.jpg";
 import rr from "./media/590.jpg"
 
 import aa from "./media/Free-Aternatives-to-Photoshop.png"
@@ -52,6 +54,13 @@ const array = [
         description:"something2"
     },
 
+     {
+        img: var1,
+        name:"sameer",
+        description:"attendee"
+    },
+
+
     {
         img: rr,
         name:"AI",
@@ -81,6 +90,7 @@ const array = [
         name:"Aniket",
         description:"Hacktoberfest"
     }, 
+
 
 ];
 
