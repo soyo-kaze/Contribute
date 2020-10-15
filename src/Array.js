@@ -90,7 +90,11 @@ const array = [
         name:"Aniket",
         description:"Hacktoberfest"
     }, 
-
+	{
+        img: dp,
+        name:"sonam",
+        description:"A contributor for hacktoberfest"
+    },
 
 ];
 
