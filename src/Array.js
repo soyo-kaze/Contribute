@@ -92,8 +92,8 @@ const array = [
     }, 
 	{
         img: dp,
-        name:"sam",
-        description:"something2"
+        name:"sonam",
+        description:"A contributor for hacktoberfest"
     },
 
 ];
