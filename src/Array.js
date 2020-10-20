@@ -13,15 +13,12 @@
 */
 import dp from "./media/ss.jpg";
 import var1 from "./media/pic.png"
-
 import dp from "./media/ss.jpg";
 import rr from "./media/590.jpg"
-
 import aa from "./media/Free-Aternatives-to-Photoshop.png"
-
 import pic from "./media/img.jpg";
 
-
+import ng from "./media/Penguins.jpg"
 const array = [
   {
     img: dp,
@@ -57,23 +54,18 @@ const array = [
      {
         img: var1,
         name:"sameer",
-        description:"attendee"
+        description:"atteendee"
     },
-
-
-    {
+  {
         img: rr,
         name:"AI",
         description:"something-4"
     },
-
 	{
 		img: dp,
 		name:"genx",
 		description:"something3"
 	},
-
-
     {
         img: pic,
         name:"ShreyaMukherjee",
@@ -83,7 +75,6 @@ const array = [
         img: aa,
         name:"Web",
         description:"something_code"
-
     }, 
      {
         img: dp,
@@ -99,6 +90,11 @@ const array = [
 	img: dp,
 	name:"beingdifferent",
 	description:"A contributor for hacktoberfest"
+    },
+	{
+        img: ng,
+        name:"niharika",
+        description:"loving this thing called life."
     },
 
 ];
